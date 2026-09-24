@@ -1,0 +1,9 @@
+
+---
+
+## 📂 Step 4 — Add `.gitignore`
+```gitignore
+venv/
+__pycache__/
+*.db-journal
+*.log

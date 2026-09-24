@@ -1,0 +1,6 @@
+company_id,company_name,broad_sector,return_on_equity_pct,debt_to_equity,revenue_cagr_5yr,fcf_cagr_5yr,operating_profit_margin_pct
+1,TCS,IT,20,0.5,12,15,25
+2,Infosys,IT,18,0.6,10,12,22
+3,Reliance,Energy,14,1.2,8,9,18
+4,HDFC,Finance,16,0.8,9,10,20
+5,Sun Pharma,Healthcare,12,0.7,7,8,15
